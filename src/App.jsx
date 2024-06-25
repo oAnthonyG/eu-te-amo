@@ -1,11 +1,11 @@
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import { HiArrowNarrowUp } from "react-icons/hi";
 
+import Inicio from './pages/Inicio';
+import Header from './components/Header';
+import Footer from './components/Footer';
 import Memorias from './pages/Memorias';
 import Motivos from './pages/Motivos';
-import Header from './components/Header';
-import Inicio from './pages/inicio';
-import Footer from './components/Footer';
 import './components/global-css/global.css'
 
 function App() {
