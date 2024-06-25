@@ -8,5 +8,8 @@ export default defineConfig({
     alias: {
       '@pages': '/src/pages'
     }
+  },
+  css: {
+    modules: true,
   }
 })
