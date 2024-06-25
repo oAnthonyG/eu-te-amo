@@ -1,0 +1,27 @@
+section h2 {
+  font-family: 'Edu TAS Beginner', cursive;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1.6rem;
+}
+
+.containerButtonNaV {
+  text-align: center;
+}
+
+.containerButtonNaV button {
+  font-family: 'Edu TAS Beginner', cursive;
+  font-size: 1.02rem;
+  border-radius: 20px;
+  margin: 0.2rem;
+  padding: 0.65rem;
+  border: none;
+  color: var(--Preto);
+  background-color: var(--Rosa-Forte);
+
+  &:hover, &:focus{
+    color: var(--Branco);
+    cursor: pointer;
+  }
+}

@@ -1,0 +1,11 @@
+
+
+.footer{
+  padding: 0.65rem;
+  background-color: var(--Rosa-Forte);
+}
+
+.footer h2{
+  font-family: "Agbalumo", sans-serif;
+  text-align: center;
+}

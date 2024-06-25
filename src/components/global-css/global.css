@@ -1,0 +1,47 @@
+:root {
+  --Rosa-Forte: hsl(286, 54%, 48%);
+  --Rosa-escuro: hsl(286, 96%, 9%);
+  --Rosa-Fraco: hsl(350, 100%, 88%);
+  --Background: hsl(350, 100%, 95%); 
+  --Background2: hsl(350, 100%, 90%);
+  --Preto: hsl(0, 0%, 0%);
+  --Branco: hsl(0, 0%, 100%);
+  --Polaroid: hsl(0, 0%, 92%);
+}
+
+* {
+  font-family: 'Raleway', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+body{
+    background-color: var(--Background2);
+}
+
+html {
+  @media screen and (max-width: 1080px) {
+    font-size: 93.75%;
+  }
+
+  @media screen and (max-width: 768px) {
+    font-size: 87.5%;
+  }
+}
+
+.buttonScrollToTop{
+  font-family: 'Edu TAS Beginner', cursive;
+  font-size: 1.02rem;
+  border-radius: 20px;
+  margin: 0.2rem;
+  padding: 0.65rem;
+  border: none;
+  color: var(--Preto);
+  background-color: var(--Rosa-Forte);
+
+  &:hover{
+    color: var(--Branco);
+    cursor: pointer;
+  }
+}
