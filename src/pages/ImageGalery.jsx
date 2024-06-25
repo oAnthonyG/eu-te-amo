@@ -1,6 +1,7 @@
 /* eslint-disable react/prop-types */
+
 import { useState } from 'react';
-import styles from './imagesGalery.module.css';
+import styles from './ImagesGalery.module.css';
 
 
 export const ImageGalery = ({ images }) => {
