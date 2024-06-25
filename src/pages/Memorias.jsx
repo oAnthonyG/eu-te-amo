@@ -9,7 +9,7 @@ function Memorias() {
 
       <div className={styles.container}>
         <figure>
-          <img src="src\assets\fotos/IMG-1.png" alt="imagem padronizada" />
+          <img src="https://i.imgur.com/lxMLkqr.png" alt="O Primeiro Econtro" />
           <figcaption>O Primeiro Encontro</figcaption>
         </figure>
         <p>❤ O dia mais importante da minha vida, onde eu pela
@@ -18,7 +18,7 @@ function Memorias() {
       </div>
       <div className={styles.container}>
         <figure>
-          <img src="src\assets\fotos/IMG-2.jpg" alt="imagem padronizada" />
+          <img src="https://i.imgur.com/kWbaDwB.jpg" alt=" Primeiro toque" />
           <figcaption>O Primeiro toque</figcaption>
         </figure>
         <p>❤ Quando andamos de mãos dadas eu me senti incrivel,
@@ -27,7 +27,7 @@ function Memorias() {
       </div>
       <div className={styles.container}>
         <figure>
-          <img src="src\assets\fotos/IMG-3.jpg" alt="imagem padronizada" />
+          <img src="https://i.imgur.com/Vc3Jayd.jpg" alt="O Primeiro Sorriso" />
           <figcaption>O Primeiro Sorriso</figcaption>
         </figure>
         <p>❤ Aquele sorriso, aquele maravilhoso sorriso fez eu ficar
@@ -36,7 +36,7 @@ function Memorias() {
       </div>
       <div className={styles.container}>
         <figure>
-          <img src="src\assets\fotos/IMG-4.png" alt="imagem padronizada" />
+          <img src="https://i.imgur.com/P3fL8Zh.png" alt="O Segundo Encontro" />
           <figcaption>O Segundo Encontro</figcaption>
         </figure>
         <p>❤ Nesse momento meu mundo virou de cabeça pra baixo
@@ -44,7 +44,7 @@ function Memorias() {
       </div>
       <div className={styles.container}>
         <figure>
-          <img src="src\assets\fotos/IMG-5.png" alt="imagem padronizada" />
+          <img src="https://i.imgur.com/Tve5JHK.png" alt="Casal Da Linguinha" />
           <figcaption>Casal Da Linguinha</figcaption>
         </figure>
         <p>❤ Esse dia foi incrivel, tomamos chuva e ficamos molhados mas
@@ -52,7 +52,7 @@ function Memorias() {
       </div>
       <div className={styles.container}>
         <figure>
-          <img src="src\assets\fotos/IMG-6 1.png" alt="imagem padronizada" />
+          <img src="https://i.imgur.com/odOCMKJ.png" alt="A Certeza Do Amor" />
           <figcaption>A Certeza Do Amor</figcaption>
         </figure>
         <p>❤ A visita a sua casa foi onde eu tive certeza que queria estar
@@ -60,7 +60,7 @@ function Memorias() {
       </div>
       <div className={styles.container}>
         <figure>
-          <img src="src\assets\fotos/IMG-7.png" alt="imagem padronizada" />
+          <img src="https://i.imgur.com/m0TuS4q.png" alt="O Dia do Pedido" />
           <figcaption>O Dia do Pedido</figcaption>
         </figure>
         <p>❤ Foi uma festa muito divertida e foi onde eu te pedi em namoro
@@ -69,7 +69,7 @@ function Memorias() {
       </div>
       <div className={styles.container}>
         <figure>
-          <img src="src\assets\fotos/IMG-8.png" alt="imagem padronizada" />
+          <img src="https://i.imgur.com/WCweI3F.png" alt="A Festa" />
           <figcaption>A Festa</figcaption>
         </figure>
         <p>❤ Um dos dias mais diferentes da minha vida pois não ia a festas
@@ -79,7 +79,7 @@ function Memorias() {
       </div>
       <div className={styles.container}>
         <figure>
-          <img src="src\assets\fotos/IMG-9.png" alt="imagem padronizada" />
+          <img src="https://i.imgur.com/WEva5JT.png" alt="O Beijo Oficial" />
           <figcaption>O Beijo Oficial</figcaption>
         </figure>
         <p>❤ Muito cliche mas foi o nosso primeiro beijo namorando e te dizer que foi
@@ -87,7 +87,7 @@ function Memorias() {
       </div>
       <div className={styles.container}>
         <figure>
-          <img src="src\assets\fotos/IMG-10.png" alt="imagem padronizada" />
+          <img src="https://i.imgur.com/JpcRDDs.png" alt="A Oficialização" />
           <figcaption>A Oficialização</figcaption>
         </figure>
         <p>❤ Um dos dias mais felizes da minha vida se não o
