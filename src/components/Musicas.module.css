@@ -27,6 +27,9 @@
 .containerText{
   width: 60%;
 }
+.containerText p {
+  width: 100%;
+}
 
 
 .container_img:nth-child(2) {
